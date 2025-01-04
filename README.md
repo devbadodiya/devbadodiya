@@ -1,11 +1,11 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/1400/475eb095746151.5e9ecde695f7a.gif)](https://devbadodiya.me)
 <h1 align="center">Hi 👋, I'm Dev</h1>
 <h3 align="center">A passionate full stack Developer and entrepreneur from india.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207](https://www.lambdatest.com/resources/images/news24.gif"/>
+<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/animated-angry-man-coding-u40xyqr26qyez70f.gif">
 
 <p align="left"> <a href="https://twitter.com/devv_badodiya" target="blank"><img src="https://img.shields.io/twitter/follow/devv_badodiya?logo=twitter&style=for-the-badge" alt="devv_badodiya" /></a> </p>
 
-- 🌱 I’m currently learning **Product Managment , Sales target and Lead Generation.**
+- 🌱 I’m currently learning **Product Managent , Sales target and Lead Generation.**
 
 - 👨‍💻 All of my projects are available at [https://personalportfoliodev.netlify.app/](https://personalportfoliodev.netlify.app/)
 
